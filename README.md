@@ -1,6 +1,7 @@
 SaaSify is a SaaS Subscription Management Platform.
 
 Tech Stack: 
+
 Next.js, Node.js, PostgreSQL, Stripe API.
 
 Features :
@@ -13,7 +14,8 @@ Usage analytics dashboard ,
 
 Role-based admin panel.
 
-Test Credentials for the Stripe API .
+Test Credentials for the Stripe API :
+
 Use Stripe test card: 4242 4242 4242 4242 (any future expiry, any CVC).
 
 
